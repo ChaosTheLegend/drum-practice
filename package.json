@@ -1,0 +1,10 @@
+{
+  "name": "drum-practice",
+  "version": "1.0.0",
+  "description": "Personal drum practice tracker — static site, data in localStorage.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
